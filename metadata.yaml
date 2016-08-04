@@ -1,0 +1,42 @@
+_repo: Droll-Stories---Volume-3_2551
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Balzac, Honore de
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: "Translation of: Les contes drôlatiques\r\nSee also: Vol 1: #1925, Vol\
+  \ 2: #2318, and the complete work #13260"
+gutenberg_issued: '2004-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 19th century'
+- !lcsh 'Humorous stories'
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Short stories, French -- Translations into English'
+- GITenberg
+tableOfContents: Perseverance in love -- Concerning a provost who did not recognise
+  things -- About the Monk Amador, who was a glorious Abbot of Turpenay -- Bertha
+  the penitent -- How the pretty maid of Portillon convinced her judge -- In which
+  it is demonstrated that fortune is always feminine -- Concerning a poor man who
+  was called Le Vieux par-Chemins -- Odd sayins of three pilgrims -- Innocence --
+  The fair Imperia married.
+title: Droll Stories — Volume 3
+url: http://www.gutenberg.org/ebooks/2551
